@@ -54,6 +54,7 @@ def create_product_if_not_exists(db: Session, product_in: schemas.ProductCreate)
     return created, True
 
 
+
 def update_product(db: Session, product: models.Product, updates: schemas.ProductUpdate) -> models.Product:
     if updates.name is not None:
         product.name = updates.name
