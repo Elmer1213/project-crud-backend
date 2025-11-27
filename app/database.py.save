@@ -15,8 +15,10 @@ load_dotenv()  # Esto permite usar un archivo .env en backend/
 # --- Configuración de la base de datos ---
 POSTGRES_USER = os.getenv("POSTGRES_USER", "crud_user")
 POSTGRES_PASSWORD = os.getenv("POSTGRES_PASSWORD", "1234")
-POSTGRES_DB = os.getenv("POSTGRES_DB", "crud_db")
+POSTGRES_DB = os.getenv("POSTGRES_DB", "crud_db"
 POSTGRES_HOST = os.getenv("POSTGRES_HOST", "postgres")
+POSTGRES_PORT = os.getenv("POSTGRES_PORT", "5432")
+RES_HOST = os.getenv("POSTGRES_HOST", "postgres")
 POSTGRES_PORT = os.getenv("POSTGRES_PORT", "5432")
 
 
