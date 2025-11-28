@@ -94,5 +94,125 @@
       "sheet": "Canasta Familiar COP",
       "count": 1000
     }
+  },
+  {
+    "timestamp": "2025-11-27T21:26:48.099270",
+    "event": "import_completed",
+    "details": {
+      "sheet": "Canasta Familiar COP",
+      "count": 1000
+    }
+  },
+  {
+    "timestamp": "2025-11-27T21:27:20.734531",
+    "event": "import_completed",
+    "details": {
+      "sheet": "Canasta Familiar",
+      "count": 1000
+    }
+  },
+  {
+    "timestamp": "2025-11-27T21:30:39.888353",
+    "event": "import_completed",
+    "details": {
+      "sheet": "Canasta Familiar",
+      "count": 1000
+    }
+  },
+  {
+    "timestamp": "2025-11-27T21:43:10.448718",
+    "event": "import_completed",
+    "details": {
+      "sheet": "Canasta Familiar COP",
+      "count": 1000
+    }
+  },
+  {
+    "timestamp": "2025-11-27T21:43:36.979296",
+    "event": "import_completed",
+    "details": {
+      "sheet": "Canasta Familiar COP",
+      "count": 1000
+    }
+  },
+  {
+    "timestamp": "2025-11-27T21:44:05.375632",
+    "event": "import_completed",
+    "details": {
+      "sheet": "Canasta Familiar COP",
+      "count": 1000
+    }
+  },
+  {
+    "timestamp": "2025-11-27T21:47:27.774868",
+    "event": "import_completed",
+    "details": {
+      "sheet": "Canasta Familiar",
+      "count": 1000
+    }
+  },
+  {
+    "timestamp": "2025-11-27T21:51:30.186860",
+    "event": "import_completed",
+    "details": {
+      "sheet": "Canasta Familiar COP",
+      "count": 1000
+    }
+  },
+  {
+    "timestamp": "2025-11-27T21:52:33.723231",
+    "event": "import_completed",
+    "details": {
+      "sheet": "Canasta Familiar",
+      "count": 1000
+    }
+  },
+  {
+    "timestamp": "2025-11-27T22:15:16.914033",
+    "event": "import_completed",
+    "details": {
+      "sheet": "Canasta Familiar COP",
+      "count": 1000
+    }
+  },
+  {
+    "timestamp": "2025-11-27T22:17:16.978630",
+    "event": "import_completed",
+    "details": {
+      "sheet": "Canasta Familiar",
+      "count": 1000
+    }
+  },
+  {
+    "timestamp": "2025-11-27T22:17:21.841640",
+    "event": "import_completed",
+    "details": {
+      "sheet": "Canasta Familiar",
+      "count": 1000
+    }
+  },
+  {
+    "timestamp": "2025-11-27T22:19:40.677018",
+    "event": "import_completed",
+    "details": {
+      "sheet": "Hoja1",
+      "count": 6
+    }
+  },
+  {
+    "timestamp": "2025-11-27T22:20:55.318287",
+    "event": "import_completed",
+    "details": {
+      "sheet": "Canasta Familiar COP",
+      "count": 1000
+    }
+  },
+  {
+    "timestamp": "2025-11-27T22:21:00.586962",
+    "event": "import_completed",
+    "details": {
+      "sheet": "Canasta Familiar COP",
+      "count": 1000
+    }
   }
 ]
