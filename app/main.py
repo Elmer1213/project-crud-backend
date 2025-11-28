@@ -14,6 +14,8 @@ from app import models, schemas, crud
 from app.database import engine, get_db
 from app.utils.response import build_response
 from app.routers import excel_routes
+from app.routers import ws_routes
+
 
 # --- Inicializar la app ---
 app = FastAPI(
@@ -30,7 +32,7 @@ origins = [
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=origins,
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -41,6 +43,8 @@ models.Base.metadata.create_all(bind=engine)
 
 # --- Importar router Excel ---
 app.include_router(excel_routes.router, prefix="/excel", tags=["Excel"])
+app.include_router(ws_routes.router, tags=["WebSocket"])
+
 
 # ---------------------------------------------------------
 #                   ENDPOINTS CRUD PRODUCTOS

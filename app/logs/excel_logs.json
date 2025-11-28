@@ -214,5 +214,61 @@
       "sheet": "Canasta Familiar COP",
       "count": 1000
     }
+  },
+  {
+    "timestamp": "2025-11-28T14:18:30.422561",
+    "event": "import_completed",
+    "details": {
+      "sheet": "Canasta Familiar COP",
+      "count": 1000
+    }
+  },
+  {
+    "timestamp": "2025-11-28T14:18:35.533847",
+    "event": "import_completed",
+    "details": {
+      "sheet": "Canasta Familiar COP",
+      "count": 1000
+    }
+  },
+  {
+    "timestamp": "2025-11-28T16:43:20.472859",
+    "event": "import_completed",
+    "details": {
+      "sheet": "Canasta Familiar COP",
+      "count": 1000
+    }
+  },
+  {
+    "timestamp": "2025-11-28T17:55:16.719700",
+    "event": "import_completed",
+    "details": {
+      "sheet": "Canasta Familiar",
+      "count": 1000
+    }
+  },
+  {
+    "timestamp": "2025-11-28T18:15:15.274269",
+    "event": "import_completed",
+    "details": {
+      "sheet": "Canasta Familiar COP",
+      "count": 1000
+    }
+  },
+  {
+    "timestamp": "2025-11-28T18:32:56.615122",
+    "event": "import_completed",
+    "details": {
+      "sheet": "Canasta Familiar COP",
+      "count": 1000
+    }
+  },
+  {
+    "timestamp": "2025-11-28T19:18:59.319837",
+    "event": "import_completed",
+    "details": {
+      "sheet": "Canasta Familiar COP",
+      "count": 1000
+    }
   }
 ]
